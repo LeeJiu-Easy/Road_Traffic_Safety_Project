@@ -1,5 +1,4 @@
-# 보행자 사망 교통 사고 요인 분석
-# 및 안전속도 5030 개선 제안
+# 보행자 사망 교통 사고 요인 분석 및 안전속도 5030 개선 제안
 ![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/5b8b47bf-5161-4c2e-ab94-5ebf0ad73f6a)
 
 
