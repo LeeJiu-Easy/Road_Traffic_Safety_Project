@@ -48,7 +48,7 @@ EDA를 토대로 가설은 다음과 같이 3가지 측면에서 수립하였다
 ![image.jpg1](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/2976ace6-8c30-4343-9e11-5aedac71dd4b) | ![image.jpg2](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/46278034-136e-41a9-933f-d3621f6e83f2)
 --- | --- | 
 
-
+<img src="https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/fd9daca5-1ad3-4488-bc34-53b4c93edea7" width="50%">
 
  **3. 보행자: 인구 수가 많을 수록 사망 사고가 많이 일어날 것이다.**
 <br>: 송파구 – 강남구 순서로 인구수가 많으며 중구 – 종로구 순으로 인구수가 적은 지역
