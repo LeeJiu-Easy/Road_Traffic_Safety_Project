@@ -32,20 +32,21 @@ EDA를 토대로 가설은 다음과 같이 3가지 측면에서 수립하였다
 <br> 보행자 교통사고는 맑은 날씨일 때 가장 많이 발생하였으나, 각 날씨 별 사상자 대비 사망자 비중은 안개가 가장 높은 순위를 차지하였다. <br>
 <br> 4개년도 서울시 시간대별 사망자 수 비교 결과, 일몰 후부터 일출 전(약 19시~06시) 시간대에 사망자 수가 많이 발생하고 있는 경향
 사고건수 대비 사망자 수 즉 치사율의 입장에서도 일몰 후부터 치사율이 증가하며 일출 직전 정점을 찍는 모습
-![image.jpg1](https://velog.velcdn.com/images/wisenar/post/93c8d706-64d5-4ec9-b998-307348d9382c/image.png) | ![image.jpg2](https://velog.velcdn.com/images/wisenar/post/65e4bdbd-2c34-40cf-97aa-10b5a2a4aab0/image.PNG)
+![image.jpg1](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/24366b2c-786b-4fb3-9da9-6e3b5e7a5696) | ![image.jpg2](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/29bc3cff-1cc4-49e2-98ab-f842445cce22)
 --- | --- | 
 
 
  **2. 운전자: 차량 평균 속도가 높을수록 사망 사고가 많이 일어날 것이다.**
 <br>: 2022년 한 해 사망자 수는 시간대별 평균 속도와 비슷한 양상을 보이며 야간(18시~06시) 시간에는 주요 도로 최고 속도 추이와 일치
 <br> 서울 주요 도로 기준, 최고 속도와 평균속도가 가장 빠른 4시~6시에 가장 많은 사망자가 발생.
-<img scr="https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/fd9daca5-1ad3-4488-bc34-53b4c93edea7" width="30%")
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/5dd95716-11d3-481a-860c-9c0d167f0ed3)
+![image.jpg1](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/fd9daca5-1ad3-4488-bc34-53b4c93edea7) | ![image.jpg2](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/5dd95716-11d3-481a-860c-9c0d167f0ed3)
+--- | --- | 
 <br> 차량 평균 속도가 사망 사고에 영향을 미쳤다고 판단하여 차량 평균 속도를 억제하는 요인인 '과속 단속 카메라' 요인을 추가로 분석 진행
 <br> 과속 단속 카메라가 가장 많은 서초구, 강동구, 동작구는 카메라 1대당 사망자 수가 낮았으며 과속 단속 카메라가 적은 중랑구, 강북구는 카메라 1대당 높은 사망자 수 기록
 <br> <u>종합적으로 과속 단속 카메라가 보행자 사망 교통사고 감소에 영향을 줄 것으로 판단</u>
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/2976ace6-8c30-4343-9e11-5aedac71dd4b)
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/46278034-136e-41a9-933f-d3621f6e83f2)
+
+![image.jpg1](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/2976ace6-8c30-4343-9e11-5aedac71dd4b) | ![image.jpg2](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/46278034-136e-41a9-933f-d3621f6e83f2)
+--- | --- | 
 
 
 
