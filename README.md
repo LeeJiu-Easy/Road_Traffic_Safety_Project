@@ -30,10 +30,10 @@ EDA를 토대로 가설은 다음과 같이 3가지 측면에서 수립하였다
  **1. 치사율: 가시거리가 짧아지면 사고 치사율이 올라갈 것이다.**
 <br>:EDA는 절대적인 사망자 '수'의 측면에서 분석되었기 때문에 사상자 대비 사망자 수(사망률) 또는 사고 건수 대비 사망자수(치사율) 관점에서 접근하였다.
 <br> 보행자 교통사고는 맑은 날씨일 때 가장 많이 발생하였으나, 각 날씨 별 사상자 대비 사망자 비중은 안개가 가장 높은 순위를 차지하였다. <br>
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/000952fa-9d82-4cbe-9c32-fa80f27b5ab8)
 <br> 4개년도 서울시 시간대별 사망자 수 비교 결과, 일몰 후부터 일출 전(약 19시~06시) 시간대에 사망자 수가 많이 발생하고 있는 경향
 사고건수 대비 사망자 수 즉 치사율의 입장에서도 일몰 후부터 치사율이 증가하며 일출 직전 정점을 찍는 모습
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/32ab33d5-4eab-4a85-9c93-964e347c60c5)
+![image.jpg1](https://velog.velcdn.com/images/wisenar/post/93c8d706-64d5-4ec9-b998-307348d9382c/image.png) | ![image.jpg2](https://velog.velcdn.com/images/wisenar/post/65e4bdbd-2c34-40cf-97aa-10b5a2a4aab0/image.PNG)
+--- | --- | 
 
 
  **2. 운전자: 차량 평균 속도가 높을수록 사망 사고가 많이 일어날 것이다.**
