@@ -39,7 +39,7 @@ EDA를 토대로 가설은 다음과 같이 3가지 측면에서 수립하였다
  **2. 운전자: 차량 평균 속도가 높을수록 사망 사고가 많이 일어날 것이다.**
 <br>: 2022년 한 해 사망자 수는 시간대별 평균 속도와 비슷한 양상을 보이며 야간(18시~06시) 시간에는 주요 도로 최고 속도 추이와 일치
 <br> 서울 주요 도로 기준, 최고 속도와 평균속도가 가장 빠른 4시~6시에 가장 많은 사망자가 발생.
-![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/fd9daca5-1ad3-4488-bc34-53b4c93edea7)
+<img scr="https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/fd9daca5-1ad3-4488-bc34-53b4c93edea7" width="30%")
 ![image](https://github.com/LeeJiu-Easy/road_traffic_safety_project/assets/131653682/5dd95716-11d3-481a-860c-9c0d167f0ed3)
 <br> 차량 평균 속도가 사망 사고에 영향을 미쳤다고 판단하여 차량 평균 속도를 억제하는 요인인 '과속 단속 카메라' 요인을 추가로 분석 진행
 <br> 과속 단속 카메라가 가장 많은 서초구, 강동구, 동작구는 카메라 1대당 사망자 수가 낮았으며 과속 단속 카메라가 적은 중랑구, 강북구는 카메라 1대당 높은 사망자 수 기록
